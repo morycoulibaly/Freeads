@@ -75,6 +75,7 @@
             ]
         },
         "platform": {
+            "php": "8.2.31"
         }
     },
     "minimum-stability": "stable",
